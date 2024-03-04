@@ -1,4 +1,10 @@
-# Tableau Personal Project: Sales Performance Dashboard
+![image](https://github.com/normantan1/Order-Analysis/assets/88649714/f602f678-d735-43f2-b0b3-660125aface2)# Tableau Personal Project: Sales Performance Dashboard
+
+
+![Uploading image.png…]()
+
+
+
 
 ## Overview
 
