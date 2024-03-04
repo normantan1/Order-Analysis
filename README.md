@@ -1,14 +1,9 @@
-![image](https://github.com/normantan1/Order-Analysis/assets/88649714/f602f678-d735-43f2-b0b3-660125aface2)# Tableau Personal Project: Sales Performance Dashboard
-
-
-![Uploading image.png…]()
-
-
-
-
 ## Overview
 
 This Tableau dashboard provides a visual analysis of sales data for December 2018. It has been designed to give insights into daily sales performance, order details, and profit distribution across different product subcategories.
+
+<img width="981" alt="image" src="https://github.com/normantan1/Order-Analysis/assets/88649714/b1dc939c-0237-4722-9372-9d0c09bdfbb9">
+
 
 ## Features
 
